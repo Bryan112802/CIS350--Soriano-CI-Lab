@@ -19,3 +19,11 @@ def test_calc_multiply_fail():
 def test_calc_divide():
 	output = divide_numbers(10,2)
 	assert output == 5
+	
+def test_calc_power
+	output = power_numbers (3,4)
+	assert output == 81
+	
+def test_calc_reciprocal
+	output = reciprocal_numbers (5)
+	assert output == 1/5
