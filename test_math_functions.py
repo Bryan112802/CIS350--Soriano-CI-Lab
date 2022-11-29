@@ -21,8 +21,8 @@ def test_calc_divide():
 	assert output == 5
 	
 def test_calc_power
-	output = power_numbers (3,4)
-	assert output == 81
+	output = square_numbers (3)
+	assert output == 9
 	
 def test_calc_reciprocal
 	output = reciprocal_numbers (5)

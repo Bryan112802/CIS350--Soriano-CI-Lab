@@ -14,8 +14,8 @@ def multiply_numbers (a, b):
 def divide_numbers (a, b):
 	return a / b	
 	
-def power_numbers (a, b):
-	return a ^ b
+def square_numbers (a):
+	return a^2
 	
 def reciprocal_numbers (a):
 	return 1/a
