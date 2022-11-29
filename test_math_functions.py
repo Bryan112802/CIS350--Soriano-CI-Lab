@@ -20,10 +20,10 @@ def test_calc_divide():
 	output = divide_numbers(10,2)
 	assert output == 5
 	
-def test_calc_square
+def test_calc_square():
 	output = square_numbers (3)
 	assert output == 9
 	
-def test_calc_reciprocal
+def test_calc_reciprocal():
 	output = reciprocal_numbers (5)
 	assert output == 1/5
