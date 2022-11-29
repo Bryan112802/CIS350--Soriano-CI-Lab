@@ -15,7 +15,7 @@ def divide_numbers (a, b):
 	return a / b	
 	
 def square_numbers (a):
-	return a^2
+	return a*a
 	
 def reciprocal_numbers (a):
 	return 1/a

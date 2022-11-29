@@ -20,7 +20,7 @@ def test_calc_divide():
 	output = divide_numbers(10,2)
 	assert output == 5
 	
-def test_calc_power
+def test_calc_square
 	output = square_numbers (3)
 	assert output == 9
 	
